@@ -1,0 +1,54 @@
+{
+	real a;
+	real b;
+	real c;
+	a = 12.3 * (15 - 8 ^ 3);
+	a *= 3;
+	write(a);
+}
+
+/*{
+	int n;
+	int1 a;
+	read(n);
+	mem1(a, n);
+	int i;
+	i = 0;
+
+	while(i < n)
+	{
+		//read(a[i]);
+		a[i] = n - i;
+		i++;
+	}
+	i = 0;
+	int j;
+	j = 0;
+	int c;
+	int t;
+	// комментарий
+	while (i < n)
+	{
+		j = 0;
+		c = n - i - 1;
+		while (j < c)
+		{
+			if (a[j] > a[j+1])
+			{
+				t = a[j];
+				a[j] = a[j+1];
+				a[j+1] = t;
+			}
+			j++;
+		}
+		i++;
+	}	
+
+	i = 0;
+	while(i < n)
+	{
+		write(a[i]);
+		write(' ');
+		i++;
+	}
+}*/

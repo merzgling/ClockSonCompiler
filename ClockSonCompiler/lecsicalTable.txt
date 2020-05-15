@@ -1,0 +1,25 @@
+24	27																									
+-1	<l>	<n>	.	<>	\n	'	;	=	/	*	+	-	>	<	!	&	|	^	%	[	]	{	}	(	)	,
+S	I	C	-	S	S	T	Z	A	A1	A2	A3	A4	A5	A6	A7	A8	A9	A10	A11	Z	Z	Z	Z	Z	Z	Z
+I	I	I	-	Z	Z	-	Z*	Z*	Z*	Z*	Z*	Z*	Z*	Z*	Z*	Z*	Z*	Z*	Z*	Z*	Z*	Z*	Z*	Z*	Z*	Z*
+C	-	C	D	Z	Z	-	Z*	Z*	Z*	Z*	Z*	Z*	Z*	Z*	Z*	Z*	Z*	Z*	Z*	Z*	Z*	Z*	Z*	Z*	Z*	Z*
+D	-	E	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+E	-	E	-	Z	Z	-	Z*	Z*	Z*	Z*	Z*	Z*	Z*	Z*	Z*	Z*	Z*	Z*	Z*	Z*	Z*	Z*	Z*	Z*	Z*	Z*
+A	Z*	Z*	-	Z	Z	-	Z*	Z	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	Z*	-	-
+A1	Z*	Z*	-	Z	Z	-	Z*	Z	K	L	-	-	-	-	-	-	-	-	-	-	-	-	-	Z*	-	-
+A2	Z*	Z*	-	Z	Z	-	Z*	Z	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	Z*	-	-
+A3	Z*	Z*	-	Z	Z	-	Z*	Z	-	-	Z	-	-	-	-	-	-	-	-	-	-	-	-	Z*	-	-
+A4	Z*	Z*	-	Z	Z	-	Z*	Z	-	-	-	Z	-	-	-	-	-	-	-	-	-	-	-	Z*	-	-
+A5	Z*	Z*	-	Z	Z	-	Z*	Z	-	-	-	-	B1	-	-	-	-	-	-	-	-	-	-	Z*	-	-
+A6	Z*	Z*	-	Z	Z	-	Z*	Z	-	-	-	-	-	B2	-	-	-	-	-	-	-	-	-	Z*	-	-
+A7	Z*	Z*	-	Z	Z	-	Z*	Z	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	Z*	-	-
+A8	Z*	Z*	-	Z	Z	-	Z*	Z	-	-	-	-	-	-	-	Z	-	-	-	-	-	-	-	Z*	-	-
+A9	Z*	Z*	-	Z	Z	-	Z*	Z	-	-	-	-	-	-	-	-	Z	-	-	-	-	-	-	Z*	-	-
+A10	Z*	Z*	-	Z	Z	-	Z*	Z	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	Z*	-	-
+A11	Z*	Z*	-	Z	Z	-	Z*	Z	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	Z*	-	-
+B1	Z*	Z*	-	Z	Z	-	Z*	Z	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	Z*	-	-
+B2	Z*	Z*	-	Z	Z	-	Z*	Z	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	Z*	-	-
+T	T	T	T	T	T	Z	T	T	T	T	T	T	T	T	T	T	T	T	T	T	T	T	T	T	T	T
+K	K	K	K	K	S	K	K	K	K	K	K	K	K	K	K	K	K	K	K	K	K	K	K	K	K	K
+L	L	L	L	L	L	L	L	L	L	M	L	L	L	L	L	L	L	L	L	L	L	L	L	L	L	L
+M	L	L	L	L	L	L	L	L	S	M	L	L	L	L	L	L	L	L	L	L	L	L	L	L	L	L
